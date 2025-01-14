@@ -1,1 +1,1 @@
-# slither-synth
+# Slither around Snake
